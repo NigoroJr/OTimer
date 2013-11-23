@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">O-Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_set_start_date">Set date started</string>
+    <string name="action_set_goal">Set goal</string>
+
+    <string name="unit_days">" days"</string>
+    <string name="unit_hours">" hours"</string>
+    <string name="unit_minutes">" minutes"</string>
+    <string name="unit_seconds">" seconds"</string>
+    
+    <string name="goal_left_1">"Goal: "</string>
+    <string name="goal_left_2"></string>
+
+    <string name="button_start">Start</string>
+    <string name="button_stop">I couldn\'t help it :(</string>
+    <string name="button_send_record">Send Record</string>
+    <string name="button_check_ranking">Check Ranking</string>
+    <string name="button_update_ranking">Update Ranking</string>
+    
+    <string name="confirm_stop_title">Confirm</string>
+    <string name="confirm_stop_message">Are you sure you want to stop?</string>
+    
+    <string name="set_to_future">Are you from the future?</string>
+    <string name="dialog_title">Set date started</string>
+    
+    <string name="goal_dialog_title">Set goal</string>
+    <string name="goal_dialog_hint">Input number of days</string>
+    <string name="goal_checkbox">From today</string>
+
+    <string name="congratulate_title">Congratulations!!</string>
+    <string name="congratulate">You made it! You\'re the man! Keep up the good work!!</string>
+    
+    <string name="timer_stopped_title">Timer stopped</string>
+    
+    <string name="reset_title">What!?</string>
+    <string name="reset_message">You can do it next time! I have faith in you!!</string>
+    
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_maybe">Maybe?</string>
+    <string name="dialog_no">No</string>
+    
+    <string name="preference_debug">Debug</string>
+    <string name="preference_debug_dialog_title">Enter title</string>
+    <string name="preference_debug_title">Send debug info</string>
+    <string name="preference_debug_summary">Sends the debug output to developer.</string>
+    
+    <string name="debug_response_ok">Successfully Sent!</string>
+    <string name="debug_response_not_found">Error: Address not found!</string>
+    <string name="debug_response_internal_server_error">Error: Internal server error</string>
+    <string name="debug_response_other">Tell the dev some other error occurred when sending :P</string>
+    
+    <string name="preference_debug_change_server_dialog_title">Enter your server\'s address</string>
+    <string name="preference_debug_change_server_title">Change server\'s address</string>
+    <string name="preference_debug_change_server_summary">Change where the debug information will be sent</string>
+    
+    <string name="preference_user">User</string>
+    <string name="preference_username_dialog_title">Enter your username</string>
+    <string name="preference_username_title">Change your username</string>
+    <string name="preference_user_reset_title_dialog_title">How would you want to be scolded?</string>
+    <string name="preference_user_reset_title_title">Change Reset dialog\'s title</string>
+    <string name="preference_user_reset_title_summary">Change the message of dialog when you reset</string>
+    <string name="preference_user_reset_message_dialog_title">How would you want to be scolded?</string>
+    <string name="preference_user_reset_message_title">Change Reset dialog\'s message</string>
+    <string name="preference_user_reset_message_summary">Change the message of dialog when you reset</string>
+    <string name="preference_user_show_ranking_title">Show ranking</string>
+    <string name="preference_user_show_ranking_summary">Automatically show ranking. Requires Internet access</string>
+
+    <string name="preference_username_invalid">Username must not be empty or \"anonymous\" (with a smaller \"a\")</string>
+    <string name="preference_username_invalid_suggest">You can change your username in the Settings</string>
+</resources>

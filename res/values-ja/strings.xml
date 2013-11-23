@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">オナ禁タイマー</string>
+    <string name="action_settings">設定</string>
+    <string name="action_set_start_date">日付を指定して開始</string>
+    <string name="action_set_goal">目標を設定</string>
+
+    <string name="unit_days">日</string>
+    <string name="unit_hours">時間</string>
+    <string name="unit_minutes">分</string>
+    <string name="unit_seconds">秒</string>
+    
+    <string name="goal_left_1">"目標: "</string>
+    <string name="goal_left_2">あと</string>
+
+    <string name="confirm_stop_title">確認</string>
+    <string name="confirm_stop_message">本当に停止しますか？</string>
+    
+    <string name="button_start">Start</string>
+    <string name="button_stop">我慢できませんでしたorz</string>
+    <string name="button_send_record">記録を送信する</string>
+    <string name="button_check_ranking">ランキングを見る</string>
+    <string name="button_update_ranking">ランキングを更新</string>
+    
+    <string name="set_to_future">未来から来たんですか！？</string>
+    <string name="dialog_title">開始日時を設定</string>
+
+    <string name="goal_dialog_title">目標を設定</string>
+    <string name="goal_dialog_hint">目標日数を入力してください</string>
+    <string name="goal_checkbox">今日から数える</string>
+
+    <string name="congratulate_title">目標達成!!</string>
+    <string name="congratulate">おめでとうございます!!この調子で続けてください!!!</string>
+
+    <string name="timer_stopped_title">タイマーを停止しました</string>
+
+    <string name="reset_title">なんだって!?</string>
+    <string name="reset_message">次こそはできるはず!!俺はあんたを信じてるぜ!!!</string>
+    
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">キャンセル</string>
+    
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_maybe">たぶん!</string>
+    <string name="dialog_no">いいえ</string>
+    
+    <string name="preference_debug">デバッグ</string>
+    <string name="preference_debug_dialog_title">タイトルを入力</string>
+    <string name="preference_debug_title">デバッグ情報を送信</string>
+    <string name="preference_debug_summary">開発者にデバッグ情報の出力を送信します。</string>
+    
+    <string name="debug_response_ok">送信成功!</string>
+    <string name="debug_response_not_found">エラー: 404 Not Found</string>
+    <string name="debug_response_internal_server_error">エラー: 500 Internal server error</string>
+    <string name="debug_response_other">開発者にそれ以外のエラーが送信時に発生したと言ってください :P</string>
+    
+    <string name="preference_debug_change_server_dialog_title">アドレスを入力してください</string>
+    <string name="preference_debug_change_server_title">サーバーアドレスを変更</string>
+    <string name="preference_debug_change_server_summary">デバッグ情報を送信するアドレスを変更します。</string>
+    
+    <string name="preference_user">ユーザー</string>
+    <string name="preference_username_dialog_title">ユーザー名を入力してください</string>
+    <string name="preference_username_title">ユーザー名を変更する</string>
+    <string name="preference_user_reset_title_dialog_title">どのように叱られたいですか?</string>
+    <string name="preference_user_reset_title_title">リセット時のメッセージのタイトルを変更</string>
+    <string name="preference_user_reset_title_summary">リセットした時に表示されるメッセージのタイトルを変更します。</string>
+    <string name="preference_user_reset_message_dialog_title">どのように叱られたいですか?</string>
+    <string name="preference_user_reset_message_title">リセット時のメッセージの内容を変更</string>
+    <string name="preference_user_reset_message_summary">リセットした時に表示されるメッセージの内容を変更します。</string>
+    <string name="preference_user_show_ranking_title">ランキングを表示</string>
+    <string name="preference_user_show_ranking_summary">ランキングを自動で表示します。インターネット接続が必要です。</string>
+
+    <string name="preference_username_invalid">ユーザー名は空白または\"anonymous\"(小文字のa)以外にしてください。</string>
+    <string name="preference_username_invalid_suggest">ユーザー名は設定で変えることができます。</string>
+</resources>
